@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1041812371601",
+    "firebase_url": "https://fsr7lmk.firebaseio.com",
+    "project_id": "fsr7lmk",
+    "storage_bucket": "fsr7lmk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041812371601:android:802bed0c07ba6d65",
+        "android_client_info": {
+          "package_name": "com.codingclub.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041812371601-r2g9gg9te6j5i5hga94i5q7vudsj6p1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_v0RjN30zbZVmWS-JfZwNFwHyP6QoczE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041812371601-r2g9gg9te6j5i5hga94i5q7vudsj6p1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041812371601:android:6b4e3e4ca3470734",
+        "android_client_info": {
+          "package_name": "com.developer.dreamadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041812371601-r2g9gg9te6j5i5hga94i5q7vudsj6p1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_v0RjN30zbZVmWS-JfZwNFwHyP6QoczE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041812371601-r2g9gg9te6j5i5hga94i5q7vudsj6p1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041812371601:android:f8d9e21443037f44",
+        "android_client_info": {
+          "package_name": "com.tellyourdream.tellyourdream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041812371601-r2g9gg9te6j5i5hga94i5q7vudsj6p1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_v0RjN30zbZVmWS-JfZwNFwHyP6QoczE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041812371601-r2g9gg9te6j5i5hga94i5q7vudsj6p1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9623051881176641~4800656578"
+    }
+  ],
+  "configuration_version": "1"
+}
